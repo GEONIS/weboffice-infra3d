@@ -23,6 +23,13 @@ In WebOffice the configuration is done as External Gui Module in section Project
 Tested with WebOffice 10.4 and 10.5
 
 ------
+## Usage
+
+Add infra3d as new WebOffice tool.
+
+![Alt text](https://github.com/geocom-gis/weboffice-infra3d/blob/develop/infra3d_sample.png)
+
+------
 ## Help
 
 
